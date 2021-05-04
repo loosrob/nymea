@@ -1,3 +1,10 @@
+nymea (0.27.1) xenial; urgency=medium
+
+  [ Michael Zanetti ]
+  * Add browsing support to python plugin API
+
+ -- Jenkins <jenkins@nymea.io>  Tue, 04 May 2021 11:42:14 +0200
+
 nymea (0.27.0) xenial; urgency=medium
 
   [ Michael Zanetti ]
