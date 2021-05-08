@@ -1,7 +1,15 @@
-nymea (0.28.0) UNRELEASED; urgency=medium
+nymea (0.28.0) xenial; urgency=medium
 
 
- -- Michael Zanetti <michael.zanetti@nymea.io>  Thu, 29 Apr 2021 16:09:09 +0200
+  [ Simon Stürz ]
+  * Modbus RTU hardware resource
+
+  [ Michael Zanetti ]
+  * 0.28
+  * Better cloud reconnect
+  * Add more param getter functions to the python api
+
+ -- Jenkins <jenkins@nymea.io>  Sat, 08 May 2021 20:47:08 +0200
 
 nymea (0.27.0) xenial; urgency=medium
 
