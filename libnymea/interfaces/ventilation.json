@@ -3,7 +3,7 @@
     "extends": "power",
     "states": [
         {
-            "name": "brightness",
+            "name": "flowrate",
             "type": "int",
             "minimumValue": 0,
             "maximumValue": 100,
